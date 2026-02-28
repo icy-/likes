@@ -19,10 +19,16 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/icy-/TruthOrDare/main/Data/bound180x180.png",
     "RepoUrl": "https://github.com/icy-/TruthOrDare",
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
-    "DownloadLinkUpdate": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip"
+    "DownloadLinkUpdate": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
+    "DownloadCount": 3
   }
 ]
