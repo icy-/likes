@@ -17,12 +17,12 @@
       "restraints",
       "moodles"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/icy-/TruthOrDare/refs/heads/main/Data/bound180x180.png",
-    "RepoUrl": "https://github.com/icy-/TruthOrDare",                            
+    "IconUrl": "https://raw.githubusercontent.com/icy-/TruthOrDare/main/Data/bound180x180.png",
+    "RepoUrl": "https://github.com/icy-/TruthOrDare",
     "DownloadLinkInstall": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
-    "DownloadLinkUpdate": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
+    "DownloadLinkUpdate": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip"
   }
 ]
