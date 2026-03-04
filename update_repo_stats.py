@@ -50,10 +50,12 @@ for plugin in plugins:
     )
 
     # Since this is already sorted descending, the first element is latest
+    last_assembly_version = releases[0].get("tag_name")
     last_updated_iso = releases[0].get("published_at")
     last_updated_unix = to_unix_timestamp(last_updated_iso)
     last_download_url = releases[0].get('assets', [])[0].get("browser_download_url")
 
+    plugin["AssemblyVersion"] = last_assembly_version
     plugin["LastUpdate"] = last_updated_unix
     plugin["DownloadCount"] = total_downloads    
     plugin["DownloadLinkInstall"] = last_download_url
