@@ -26,12 +26,12 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
+    "DownloadLinkInstall": "https://github.com/icy-/TruthOrDare/releases/download/0.2.0.0/TruthOrDare.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
-    "DownloadLinkUpdate": "https://github.com/icy-/TruthOrDare/releases/download/0.1.0.0/TruthOrDare.zip",
-    "DownloadCount": 5,
-    "LastUpdate": 1772234026
+    "DownloadLinkTesting": "https://github.com/icy-/TruthOrDare/releases/download/0.2.0.0/TruthOrDare.zip",
+    "DownloadLinkUpdate": "https://github.com/icy-/TruthOrDare/releases/download/0.2.0.0/TruthOrDare.zip",
+    "DownloadCount": 6,
+    "LastUpdate": 1772607253
   }
 ]
