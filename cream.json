@@ -3,7 +3,7 @@
     "Author": "icy`",
     "Name": "Truth or Dare",
     "InternalName": "TruthOrDare",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.4.0.0",
     "Punchline": "Social game of classic humiliation :3",
     "Description": "Leave your inhibitions at the door! Go wild \u2665",
     "ApplicableVersion": "any",
@@ -26,12 +26,12 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/icy-/TruthOrDare/releases/download/0.3.0.0/TruthOrDare.zip",
+    "DownloadLinkInstall": "https://github.com/icy-/TruthOrDare/releases/download/0.4.0.0/TruthOrDare.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/icy-/TruthOrDare/releases/download/0.3.0.0/TruthOrDare.zip",
-    "DownloadLinkUpdate": "https://github.com/icy-/TruthOrDare/releases/download/0.3.0.0/TruthOrDare.zip",
+    "DownloadLinkTesting": "https://github.com/icy-/TruthOrDare/releases/download/0.4.0.0/TruthOrDare.zip",
+    "DownloadLinkUpdate": "https://github.com/icy-/TruthOrDare/releases/download/0.4.0.0/TruthOrDare.zip",
     "DownloadCount": 11,
-    "LastUpdate": 1773940814
+    "LastUpdate": 1778098568
   }
 ]
