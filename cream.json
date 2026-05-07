@@ -21,7 +21,7 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/icy-/TruthOrDare/main/Data/bound180x180.png",
     "RepoUrl": "https://github.com/icy-/TruthOrDare",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
